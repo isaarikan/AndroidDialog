@@ -1,3 +1,3 @@
 # AndroidDialog
 
-Turkcell Geleceği Yazan Kadınlar Android Uyarı diyaloğu kullanımı
+Turkcell Geleceği Yazan Kadınlar Eğitimi Android Uyarı diyaloğu kullanımı
